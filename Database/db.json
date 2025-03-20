@@ -1,0 +1,52 @@
+{
+  "todo": [
+    {
+      "id": "1c8d",
+      "title": "css",
+      "description": "learing css",
+      "tasktype": "todo"
+    },
+    {
+      "id": "70f4",
+      "title": "React",
+      "description": "leaning react",
+      "tasktype": "todo"
+    },
+    {
+      "id": "e9b2",
+      "title": "Flutter",
+      "description": "Learning Flutter",
+      "tasktype": "todo"
+    }
+  ],
+  "progress": [
+    {
+      "id": "10a6",
+      "title": "Java Programming",
+      "description": "learning Java",
+      "tasktype": "progress"
+    }
+  ],
+  "review": [
+    {
+      "id": "3d9f",
+      "title": "JavaScript",
+      "description": "learning JavaScript",
+      "tasktype": "review"
+    }
+  ],
+  "done": [
+    {
+      "id": "23db",
+      "title": "html",
+      "description": "learing html",
+      "tasktype": "progress"
+    },
+    {
+      "id": "4408",
+      "title": "Sql",
+      "description": "Learning sql",
+      "tasktype": "done"
+    }
+  ]
+}
